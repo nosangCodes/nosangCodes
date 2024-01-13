@@ -6,7 +6,7 @@ I'm Nosang Subba, a passionate and enthusiastic web developer with a love for cr
 
 I'm proficient in a variety of technologies and tools, including but not limited to:
 
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, MySQL
 - **Version Control:** Git, GitHub
